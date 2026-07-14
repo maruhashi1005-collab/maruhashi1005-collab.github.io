@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["XXXXXXXXXX.com.shinshu.kintaipc"],
+        "components": [
+          { "/": "/in.html", "comment": "出勤打刻" },
+          { "/": "/out.html", "comment": "退勤打刻" }
+        ]
+      }
+    ]
+  }
+}
